@@ -1,0 +1,15 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 2C84-EA50
+
+ Directory of C:\Users\it-shaik.HQ0\Desktop\MyGitProject
+
+04/28/2019  10:24 AM    <DIR>          .
+04/28/2019  10:24 AM    <DIR>          ..
+04/28/2019  10:24 AM                 0 file.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  75,886,809,088 bytes free
+
+---------------------------------------------------------------------
+Hello, 
+
+This is my first Git File
